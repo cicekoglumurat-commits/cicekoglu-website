@@ -7,3 +7,6 @@ git add .
 git commit -m "Site guncellemeleri"
 
 git push
+
+Bir kez aşağıdakini çalıştırmak gerekiyor
+git push --set-upstream origin main
