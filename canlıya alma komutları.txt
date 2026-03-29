@@ -1,0 +1,9 @@
+cd C:\Users\cicek\Desktop\cicekoglu.com
+
+del .git\index.lock
+
+git add .
+
+git commit -m "Site guncellemeleri"
+
+git push
